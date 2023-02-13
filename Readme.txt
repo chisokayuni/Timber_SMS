@@ -1,0 +1,3 @@
+- The System is developed in php.
+- Import the attached database and get going.
+- Username: admin Pass: admin
